@@ -1,0 +1,12 @@
+{
+  "Lua.diagnostics.globals": [
+    "obslua",
+    "script_update",
+    "script_properties",
+    "script_load",
+    "script_defaults",
+    "script_description"
+  ],
+  "Lua.diagnostics.disable": ["lowercase-global"],
+  "Lua.workspace.checkThirdParty": false
+}
